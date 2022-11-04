@@ -52,7 +52,7 @@ The general idea of the game is to create words from a given set of randomly gen
 3. If Git is not installed on your system, you can simply download and extract the zip.
 
 <p align="center">
-  <img src="readme-images/download-zip.png" alt="Main Menu" width="408">
+  <img src="readme-images/download-zip.png" alt=  "Main Menu" width="408">
 </p> 
 
     cd budget-word-connect

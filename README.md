@@ -4,12 +4,13 @@
   <img src="readme-images/word-connect.png" alt="Main Menu" width="608">
 </p>
 
+>Caption: Main Menu Screen
 ## Project Overview
 
 I was inspired to create this project when I saw my mom playing 'Word Connect' on her phone. I took on this project as a capstone to further grasp python concepts. I thought the project was simple, yet challenging enough to learn new things along its journey. I was able to utilise file-handling, api/json data; and also further understood the Tkinter library.
 
 * Main Menu Screen
-* How to Play Screen
+* How to Play Screen ([view here](https://i.imgur.com/5quu9PG.png))
 * Custom UI Graphics
 * Three-Strikes & Sixty-Second-Timer Mode
 * Previews Currently Selected letters

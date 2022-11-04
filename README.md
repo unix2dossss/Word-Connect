@@ -28,6 +28,7 @@ The general idea of the game is to create words from a given set of randomly gen
     * The strikes are indicated by red squares in the bottom left of the screen. Each time the user gets a strike, a green box is turned to red.
     * When all the boxes have turned red, it is game-over.
 <br>
+
 2. **Sixty-Second-Timer**: The objective of this game mode is to completely fill up all the slots with words _before the 60 seconds have run out_.
 
     * The 60-Seconds will begin as soon as the user has clicked on the mode. Be prepared to start submitting words. Fill up all slots to win the game.

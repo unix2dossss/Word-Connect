@@ -17,7 +17,7 @@ I was inspired to create this project when I saw my mom playing 'Word Connect' o
 * Selected letters are disabled upon click
 * Game Checks
 
-| ▶️ | [Project Showcase Video](https://github.com/unix2dossss/budget-word-connect/issues/new)
+| ▶️ | [Project Showcase Video](https://www.youtube.com/watch?v=YXCMunQftEY&ab_channel=Unix2Dos)
 
 ## Basic Instructions (Modes)
 
@@ -37,7 +37,7 @@ The general idea of the game is to create words from a given set of randomly gen
 ## Download and Play
 
 1. Make sure your system has Python installed. Install Python at [python.org](https://www.python.org/downloads/). Check if you have Python installed by typing the command ```python``` and pressing enter in your command prompt or terminal. If a prompt like ```>>>``` shows up, then Python is installed.
-<br></br>
+<br>
 
 2. You can check if Git is installed on your system by typing ``git`` in the terminial; if no errors are returned, it is installed. If git is installed you can simply copy & paste the commands below to play the game ... (if Git is not installed, **Skip to Step 3**)
 
@@ -58,6 +58,14 @@ The general idea of the game is to create words from a given set of randomly gen
     cd budget-word-connect
     python3 main.py
 
+## References
+
+1. [WordsAPI](https://www.wordsapi.com/) (API) used (in version 0.1) to randomly generate words and to check validity of submitted words.
+    * Used [Wordsapy](https://pypi.org/project/wordsapy/) as a Python Wrapper for WordsAPI as it is only released for versions < Python 3.0.
+<br>
+
+2. [JSON](https://github.com/dwyl/english-words) file containing over 466k English words used to replace Words API with something more efficient that will maximize game performance. (version 1).
+
 ## Bugs or Issues
 
-If you find a bug or have an issue with Budget Word Connect, feel free to [Submit an Issue](https://github.com/unix2dossss/budget-word-connect/issues/new).
+If you find a bug or have an issue with Budget Word Connect, feel free to [Submit an Issue](https://github.com/unix2dossss/budget-word-connect/issues/new)
